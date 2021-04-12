@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "915471218960",
+    "project_id": "pushapp2-534ad",
+    "storage_bucket": "pushapp2-534ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915471218960:android:c533f4fa20d97406b4cd95",
+        "android_client_info": {
+          "package_name": "cl.kinetik.pushapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915471218960-gtankrnpgq3idvp5g0b0imite24spe9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1TvyQa_sQrHGgbquI6zR5I7cKDv3byS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915471218960-gtankrnpgq3idvp5g0b0imite24spe9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
